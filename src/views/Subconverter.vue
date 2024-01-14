@@ -210,7 +210,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://sub.pinolly.top:25500/sub?" }],
+        backendOptions: [{ value: "https://sub.pinolly.top/sub?" }],
         remoteConfig: [
           {
             label: "universal",
